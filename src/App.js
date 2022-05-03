@@ -46,12 +46,12 @@ function App() {
     console.log("user", user, "computer", computer);
 
     // user == computer tie
-    // user == rock, computer == "scissors" user 이긴거지
-    // user == "rock" computer == paper   user 진거지
-    // user == scissors computer paper    user 이긴거지
-    // user == scissors computer rock     user 진거지
-    // user == paper computer rock   user 이긴거지
-    // user paper computer scissors user 진거지
+    // user == rock, computer == "scissors" user 이긴거
+    // user == "rock" computer == paper   user 진거
+    // user == scissors computer paper    user 이긴거
+    // user == scissors computer rock     user 진거
+    // user == paper computer rock   user 이긴거
+    // user paper computer scissors user 진거
 
     if (user.name == computer.name) {
       return "tie";
