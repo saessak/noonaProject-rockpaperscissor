@@ -8,7 +8,7 @@ import Rockpaperscissor from './pages/Rockpaperscissor';
 import Page2 from './pages/Page2';
 import Page3 from './pages/Page3';
 
-export default function Router() {
+export default function App() {
   return (
       <BrowserRouter>
         <Routes>
