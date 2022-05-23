@@ -8,7 +8,10 @@ import Rockpaperscissor from './pages/Rockpaperscissor';
 import Page2 from './pages/Page2';
 import Page3 from './pages/Page3';
 
-// Route 세팅 (Route 는 도메인 경로 설정 이라고 이해하면 될듯?)
+// npm install react-router-dom  
+// 명령어로 라우트 설치
+
+// App 페이지는 Route 세팅 (Route 는 도메인 경로 설정 이라고 이해하면 될듯?)
 export default function App() {
   return (
       <BrowserRouter>
