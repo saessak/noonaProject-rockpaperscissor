@@ -10,6 +10,8 @@ import Header from '../component/Header';
 //5. 3 4 의 결과를 가지고 누가 이겼는지 승패를 따진다
 //6. 승패결과에따라 테두리 색이 바뀐다 (이기면-초록, 지면-빨강 비기면-검은색)
 
+
+// 프로젝트 1
 const choice = {
   rock: {
     name: "Rock",

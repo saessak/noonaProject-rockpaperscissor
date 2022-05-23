@@ -2,7 +2,7 @@ import { useState } from "react";
 import "../App.css";
 import Header from '../component/Header';
 
-
+// 프로젝트 2
 function Page2() {
   
   return (
