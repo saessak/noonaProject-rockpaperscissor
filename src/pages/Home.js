@@ -1,7 +1,5 @@
 
-import * as React from 'react';
 import Header from '../component/Header';
-
 
 // 메인 페이지
 export default function Home() {
